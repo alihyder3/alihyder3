@@ -19,14 +19,9 @@ M.Sc. Digital Engineering student at Bauhaus-Universität Weimar, background in 
 
 ---
 
-## 📊 GitHub stats
+## 📊 Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihyder3&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihyder3&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alihyder3&theme=github-compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alihyder3&theme=github-compact&hide_border=true&area=true)
 
 ---
 
